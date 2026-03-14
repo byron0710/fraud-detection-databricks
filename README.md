@@ -51,13 +51,13 @@ Raw CSV → Bronze (Delta Lake) → Silver (Cleaned)
 ## 📊 Dashboard Preview
 
 ### Page 1 — Executive Summary
-![Page 1](dashboard_page1_executive.png)
+![Page 1](Fraud_Detection_Dashboard.jpeg)
 
 ### Page 2 — Fraud Analysis
-![Page 2](dashboard_page2_analysis.png)
+![Page 2](Fraude_Analysis_Dashbaord.jpeg)
 
 ### Page 3 — Model Performance
-![Page 3](dashboard_page3_model.png)
+![Page 3](Model_Perfomance_Dashbaord.jpeg)
 
 ---
 
